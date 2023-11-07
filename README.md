@@ -19,13 +19,20 @@ Currently, the extension is not available on the browser stores and has to be in
 
 ## Usage
 
-After installation, navigate to any Amazon search results page. Click on the extension icon and then click on "Find Best Products". A popup will appear with the best deals according to:
+After installation, navigate to any Amazon search results page. The extension icon will highlight showing it can provide insights. 
+![Screenshot 2023-11-07 at 3 54 40 PM](https://github.com/aarsenault/Quick_Picks/assets/5014978/51daa40a-2247-4b94-b424-d0405721d872)
+
+
+Click on the extension icon and then click on "Find Best Products". A popup will appear with the best deals according to:
 
 - Cheapest Price
 - Highest Rating
 - Fastest Delivery
 
 You can click on the links provided to go directly to the product pages.
+
+![Screenshot 2023-11-07 at 3 57 04 PM](https://github.com/aarsenault/Quick_Picks/assets/5014978/9af1a41a-cdef-436c-b8ba-7bb5c5da1700)
+
 
 ## Next Steps
 
